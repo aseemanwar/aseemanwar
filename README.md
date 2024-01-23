@@ -36,7 +36,7 @@ About Me:
 - IT Professional with 15+ years of experience
 - Worked at multiple hypergrowth startups
 - Started out in support debugging code
-- Background in Datacenter, Virtualsation, Cloud and Applications...
+- Background in Datacenter, Virtualisation, Cloud and Applications...
   
 
 
